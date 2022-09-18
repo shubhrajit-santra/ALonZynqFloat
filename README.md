@@ -14,8 +14,8 @@
 
 ## Block Diagram
 
-<img src="images/al_bd.png" height="600" >
+<img src="images/al_bd.png" height="400" >
 
 ## Terminal Output Snapshot
 
-<img src="images/al_output.PNG" height="200" >
+<img src="images/al_output.PNG" height="150" >
